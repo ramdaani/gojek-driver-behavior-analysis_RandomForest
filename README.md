@@ -27,5 +27,6 @@ Model ini dikembangkan untuk mendeteksi potensi kegagalan penjemputan:
 2. **Rain-Specific Surge:** Penyesuaian tarif saat hujan untuk mengompensasi risiko pengemudi di jalan.
 3. **Priority Dispatch:** Mengalokasikan driver terdekat secara lebih agresif untuk pesanan yang diprediksi memiliki risiko penolakan tinggi.
 
----
+![Deskripsi Gambar](plotcuaca.png), (plotconfusion.png)
+
 *Created as part of my Data Science Journey.*
